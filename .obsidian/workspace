@@ -1,17 +1,16 @@
 {
   "main": {
-    "id": "37a4ece0ae44376a",
+    "id": "6b667abeb875d9ba",
     "type": "split",
     "children": [
       {
-        "id": "f2eb738b1ea2b024",
+        "id": "5d2007a82926b6c1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "START HERE.md",
-            "mode": "source",
-            "source": false
+            "file": "Day Planners/Day Planner-20220707.md",
+            "mode": "preview"
           }
         }
       }
@@ -19,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "98f5f9f1989ae5ac",
+    "id": "b6e9cd88113dcc4d",
     "type": "split",
     "children": [
       {
-        "id": "cea45d2283bccf26",
+        "id": "d7cf9713a39e908d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4aedf76c3582439",
+            "id": "a5c8394c255bfd01",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +34,7 @@
             }
           },
           {
-            "id": "ab933bdf22f5ef9f",
+            "id": "577bcfa323f74d07",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -53,23 +52,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 300
   },
   "right": {
-    "id": "e7d7ccc57c51fc0f",
+    "id": "72a05b6f20977e26",
     "type": "split",
     "children": [
       {
-        "id": "2efc48693500b591",
+        "id": "5da8be0874ac7a4d",
         "type": "tabs",
         "children": [
           {
-            "id": "dbc0bdd7940079a4",
+            "id": "4d6c8fefc29a2dba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20220707.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d59191005517950",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "START HERE.md"
+                "file": "Day Planners/Day Planner-20220707.md"
               }
             }
           }
@@ -77,19 +93,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f2eb738b1ea2b024",
+  "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
-    "START HERE.md",
     "Day Planners/Day Planner-20220707.md",
-    "Untitled.md",
-    "22/Jul/07.md",
-    "template/daily log.md",
-    "2022-07-07.md",
-    "2022/Jul/Th.md",
-    "template/quarter planning.md",
-    "template/meeting note.md",
-    "template/book note.md"
+    "2. Areas/Blog/Feedback sessions.md",
+    "2. Areas/Blog/Hugo Version Change.md",
+    "2. Areas/Blog/Writing cheatsheet.md",
+    "2. Areas/House/Moving tip.md",
+    "2. Areas/House/House.md",
+    "2. Areas/House/Brand and models.md",
+    "2. Areas/Blog/=Draft= Project Manager for solo person.md"
   ]
 }
