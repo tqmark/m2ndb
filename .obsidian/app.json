@@ -8,7 +8,7 @@
   "attachmentFolderPath": "5. Attachments",
   "legacyEditor": false,
   "livePreview": true,
-  "rightToLeft": true,
+  "rightToLeft": false,
   "spellcheck": true,
   "vimMode": true
 }
