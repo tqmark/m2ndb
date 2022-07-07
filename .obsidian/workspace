@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Day Planners/Day Planner-20220707.md",
+            "file": "2022/07/09.md",
             "mode": "preview"
           }
         }
@@ -63,48 +63,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d6c8fefc29a2dba",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Day Planners/Day Planner-20220707.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "5d59191005517950",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20220707.md"
+                "file": "2022/07/09.md"
               }
+            }
+          },
+          {
+            "id": "0247f4618c3f86bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5892f9cbce29506b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3f80a8240fcd1c5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 473
   },
   "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
+    "2022/07/09.md",
+    "2022/07/08.md",
+    "2022/07/07.md",
+    "2022/07/06.md",
+    "templates/time planner.md",
+    "time blocking.md",
+    "daily-log/2022/07/07.md",
+    "22/7/4.md",
     "Day Planners/Day Planner-20220707.md",
-    "2. Areas/Blog/Feedback sessions.md",
-    "2. Areas/Blog/Hugo Version Change.md",
-    "2. Areas/Blog/Writing cheatsheet.md",
-    "2. Areas/House/Moving tip.md",
-    "2. Areas/House/House.md",
-    "2. Areas/House/Brand and models.md",
-    "2. Areas/Blog/=Draft= Project Manager for solo person.md"
+    "2. Areas/Blog/Feedback sessions.md"
   ]
 }

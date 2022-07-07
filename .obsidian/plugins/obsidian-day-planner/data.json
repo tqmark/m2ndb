@@ -1,11 +1,16 @@
 {
   "customFolder": "Day Planners",
-  "mode": 0,
-  "mermaid": false,
-  "notesToDates": [],
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "2022/07/07.md",
+      "date": "Thu Jul 07 2022"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": true,
-  "nowAndNextInStatusBar": false,
+  "nowAndNextInStatusBar": true,
   "showTaskNotification": true,
   "timelineZoomLevel": 4
 }

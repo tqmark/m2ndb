@@ -1,0 +1,1 @@
+[Time-blocking in Obsidian - by Josh Duffney (substack.com)](https://theknowledgeworker.substack.com/p/time-blocking-in-obsidian)

@@ -3,12 +3,11 @@
   "global-search",
   "switcher",
   "graph",
-  "backlink",
   "page-preview",
+  "daily-notes",
   "note-composer",
   "command-palette",
   "outline",
-  "word-count",
   "open-with-default-app",
   "file-recovery"
 ]
