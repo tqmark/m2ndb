@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d456975adaaf9cc6",
+        "id": "f2eb738b1ea2b024",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "22/Jul/07.md",
+            "file": "START HERE.md",
             "mode": "source",
             "source": false
           }
@@ -64,53 +64,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab563223f8b8eee9",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "22/Jul/07.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "dbc0bdd7940079a4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "22/Jul/07.md"
+                "file": "START HERE.md"
               }
-            }
-          },
-          {
-            "id": "bbe022f663e0c9a4",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a5da962b9d9f5f33",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bd95f7c69338771f",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
             }
           }
         ]
@@ -119,17 +79,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d456975adaaf9cc6",
+  "active": "f2eb738b1ea2b024",
   "lastOpenFiles": [
-    "22/Jul/07.md",
+    "START HERE.md",
     "Day Planners/Day Planner-20220707.md",
     "Untitled.md",
+    "22/Jul/07.md",
+    "template/daily log.md",
     "2022-07-07.md",
     "2022/Jul/Th.md",
     "template/quarter planning.md",
     "template/meeting note.md",
-    "template/book note.md",
-    "template/task list.md",
-    "template/daily log.md"
+    "template/book note.md"
   ]
 }
