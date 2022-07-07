@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "37a4ece0ae44376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "186b5463b5600350",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/PARA Starter Kit/Methodology.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98f5f9f1989ae5ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "cea45d2283bccf26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4aedf76c3582439",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab933bdf22f5ef9f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278
+  },
+  "right": {
+    "id": "e7d7ccc57c51fc0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2efc48693500b591",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab563223f8b8eee9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Projects/PARA Starter Kit/Methodology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbc0bdd7940079a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Projects/PARA Starter Kit/Methodology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "186b5463b5600350",
+  "lastOpenFiles": [
+    "1. Projects/PARA Starter Kit/Methodology.md",
+    "START HERE.md",
+    "1. Projects/PARA Starter Kit/Workflows.md",
+    "3. Resouces/Personal Knowledge Management/Personal Knowledge Management.md",
+    "3. Resouces/Development/Development.md",
+    "1. Projects/Obsidian Theme/Things to look into.md",
+    "1. Projects/Obsidian Theme/obsidian.css.md",
+    "1. Projects/PARA Starter Kit/Outline.md",
+    "3. Resouces/Writing/Writing.md",
+    "3. Resouces/Travel/Travel.md"
+  ]
+}
