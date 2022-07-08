@@ -9,8 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "time blocking.md",
-            "mode": "source"
+            "file": "2022/07/08.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "time blocking.md"
+                "file": "2022/07/08.md"
               }
             }
           },
@@ -103,9 +105,9 @@
   },
   "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
+    "2022/07/08.md",
     "time blocking.md",
     "2022/07/09.md",
-    "2022/07/08.md",
     "2022/07/07.md",
     "2022/07/06.md",
     "templates/time planner.md",
