@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/07/12.md",
+            "file": "1. Projects/MLU/draf.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/07/12.md"
+                "file": "1. Projects/MLU/draf.md"
               }
             }
           },
@@ -106,6 +106,7 @@
   },
   "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
+    "1. Projects/MLU/draf.md",
     "2022/07/12.md",
     "3. Resouces/Development/better developers computers are cheap people are expensive.md",
     "1. Projects/Obsidian Theme/Things to look into.md",
@@ -114,7 +115,6 @@
     "time blocking.md",
     "2022/07/09.md",
     "2022/07/07.md",
-    "2022/07/06.md",
-    "templates/time planner.md"
+    "2022/07/06.md"
   ]
 }
