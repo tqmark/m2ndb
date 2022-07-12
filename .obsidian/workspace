@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/07/08.md",
+            "file": "2022/07/12.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/07/08.md"
+                "file": "2022/07/12.md"
               }
             }
           },
@@ -101,19 +101,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473
+    "width": 473,
+    "collapsed": true
   },
   "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
+    "2022/07/12.md",
+    "3. Resouces/Development/better developers computers are cheap people are expensive.md",
+    "1. Projects/Obsidian Theme/Things to look into.md",
+    "1. Projects/Obsidian Theme/obsidian.css.md",
     "2022/07/08.md",
     "time blocking.md",
     "2022/07/09.md",
     "2022/07/07.md",
     "2022/07/06.md",
-    "templates/time planner.md",
-    "daily-log/2022/07/07.md",
-    "22/7/4.md",
-    "Day Planners/Day Planner-20220707.md",
-    "2. Areas/Blog/Feedback sessions.md"
+    "templates/time planner.md"
   ]
 }
