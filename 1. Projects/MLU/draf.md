@@ -25,3 +25,5 @@ link to your repository `airflow` ->
 linked by branch
 
 
+individual information
+notebook server
