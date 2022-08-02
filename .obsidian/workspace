@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022/07/21.md",
+            "file": "1. Projects/JS/event loop.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 157
+    "width": 315
   },
   "right": {
     "id": "72a05b6f20977e26",
@@ -70,7 +70,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/07/21.md"
+                "file": "1. Projects/JS/event loop.md"
               }
             }
           },
@@ -106,15 +106,15 @@
   },
   "active": "5d2007a82926b6c1",
   "lastOpenFiles": [
-    "1. Projects/JS/Nodejs.md",
-    "1. Projects/JS/Proxy.md",
-    "1. Projects/today/debugger.md",
+    "1. Projects/JS/execution context.md",
+    "1. Projects/JS/call stack.md",
+    "2022/08/02.md",
+    "2022/07/29.md",
+    "1. Projects/JS/monad.md",
+    "1. Projects/JS/event loop.md",
+    "2022/07/28.md",
     "1. Projects/MLU/draf.md",
-    "2022/07/12.md",
-    "3. Resouces/Development/better developers computers are cheap people are expensive.md",
-    "1. Projects/Obsidian Theme/Things to look into.md",
-    "1. Projects/Obsidian Theme/obsidian.css.md",
-    "2022/07/08.md",
-    "time blocking.md"
+    "1. Projects/JS/Nodejs.md",
+    "1. Projects/JS/Proxy.md"
   ]
 }

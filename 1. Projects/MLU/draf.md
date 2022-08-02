@@ -27,3 +27,6 @@ linked by branch
 
 individual information
 notebook server
+just-in-time compilation
+
+parsing -> AST -> 
