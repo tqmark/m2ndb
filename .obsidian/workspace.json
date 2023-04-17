@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "6b667abeb875d9ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "103a6edce42c0bd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d2007a82926b6c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023/04/17.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6e9cd88113dcc4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7cf9713a39e908d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c8394c255bfd01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "577bcfa323f74d07",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "72a05b6f20977e26",
+    "type": "split",
+    "children": [
+      {
+        "id": "5da8be0874ac7a4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d59191005517950",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023/04/17.md"
+              }
+            }
+          },
+          {
+            "id": "0247f4618c3f86bb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5892f9cbce29506b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3f80a8240fcd1c5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 473,
+    "collapsed": true
+  },
+  "active": "5d2007a82926b6c1",
+  "lastOpenFiles": [
+    "1. Projects/JS/event loop.md",
+    "1. Projects/JS/execution context.md",
+    "1. Projects/JS/call stack.md",
+    "2022/08/02.md",
+    "2022/07/29.md",
+    "1. Projects/JS/monad.md",
+    "2022/07/28.md",
+    "1. Projects/MLU/draf.md",
+    "1. Projects/JS/Nodejs.md",
+    "1. Projects/JS/Proxy.md"
+  ]
+}
